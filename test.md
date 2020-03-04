@@ -7,4 +7,9 @@
 #### and she cleansed us with her blinding darkness
 
 
-##### please holly matron of darkness take us 
+##### please holy matron of darkness take us 
+
+* We came from light
+* We came from steam
+* to destroy this wicked world
+* we came from scream
