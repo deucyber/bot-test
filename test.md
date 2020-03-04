@@ -11,5 +11,5 @@
 
 * We came from light
 * We came from steam
-* to destroy this wicked world
-* we came from scream
+* To destroy this wicked world
+* We came from scream
