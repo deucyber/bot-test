@@ -22,8 +22,4 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
-    - name: send a message to telegram 
-      run:  wget "https://api.telegram.org/bot${BOT_KEY}/sendMessage?chat_id=${CHAT_ID}&text=we got a new pr * - * !!"
-
+    - uses: deucyber/deucyber_pr_ci@master
